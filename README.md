@@ -1,2 +1,3 @@
 # BAM-Studios481.github.io
 This is the new and not-really improved website for BAM studios, we're supposed to be making games and stuff but who cares.
+Please go to gabe-games.github.io for some awesome games and stuff...

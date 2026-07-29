@@ -21,8 +21,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
 
     <header class="header">
       <h1 class="site-title">★ BAM‑studios481 ★</h1>
-      <p class="tagline">retro future • chrome dreams • neon nostalgia</p>
-    </header>
+      
 
     <nav class="nav">
       <a href="#">Home</a>

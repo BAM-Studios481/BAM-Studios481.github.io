@@ -57,6 +57,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
 
       <button class="y2k-btn">Enter</button>
     </section>
+   <img width="4500" height="2592" alt="Image" src="https://github.com/user-attachments/assets/3558ce06-ed33-495a-be16-9f5d726fecdd" />
    <img src="https://githubusercontent.com" alt="Map" width="100%" height="auto">
 
     <footer class="footer">

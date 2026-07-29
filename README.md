@@ -34,9 +34,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
     <section class="content">
       <h2>Welcome to the Y2K Zone</h2>
       <p>
-        Step into a world of glossy gradients, pixel fonts, and early‑internet energy.
-        This layout is inspired by real 2000–2004 web aesthetics — no AI art, no modern
-        minimalism, just pure retro charm.
+       
       </p>
 
       <button class="y2k-btn">Enter</button>

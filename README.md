@@ -58,6 +58,8 @@ Please go to gabe-games.github.io for some awesome games and stuff...
       <button class="y2k-btn">Enter</button>
     </section>
    <img src="alt_future.png" alt="Future Map Layout" width="100%" height="auto">
+   <img width="4500" height="2592" alt="alt_future" src="https://github.com/user-attachments/assets/0dbc8784-46b4-48c3-b698-db014ecd0463" />
+
 
 
     <footer class="footer">

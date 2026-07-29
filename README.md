@@ -22,7 +22,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
       
 
     <nav class="nav">
-      <a href="#">Home</a>
+      <a href="#target-section"><button>Jump to Section</button></a>
       <a href="#">Projects</a>
       <a href="#">Gallery</a>
       <a href="#">Contact</a>
@@ -37,9 +37,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
 
       <button class="y2k-btn">Enter</button>
     </section>
-<div id="1">>Home</a>
-
-## My Target Section
+<div id="target-section"></div>
    <img width="4500" height=auto alt="alt_future" src="https://github.com/user-attachments/assets/0dbc8784-46b4-48c3-b698-db014ecd0463" />
 
 

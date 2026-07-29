@@ -18,7 +18,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
   <div class="page-wrapper">
 
     <header class="header">
-      <h1 class="site-title">★ BAM‑studios481 ★</h1>
+      <h1 class="site-title"> BAM‑studios </h1>
       
 
     <nav class="nav">

@@ -25,23 +25,6 @@ Please go to gabe-games.github.io for some awesome games and stuff...
 // - If the target doesn't exist, creates a placeholder <section id="..."> and scrolls there.
 // - External links (href starting with http, mailto, etc.) are ignored.
 
-(function () {
-  'use strict';
-
-  function createPlaceholder(id) {
-    const section = document.createElement('section');
-    section.id = id;
-    section.className = 'placeholder';
-    section.innerHTML = '<h2>Coming soon</h2><p>Content for #' + id + ' will be added here.</p>';
-    // Append near the bottom but before the footer if possible
-    const footer = document.querySelector('footer');
-    if (footer && footer.parentNode) {
-      footer.parentNode.insertBefore(section, footer);
-    } else {
-      document.body.appendChild(section);
-    }
-    return section;
-  }
 
 
 <body>

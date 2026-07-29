@@ -31,7 +31,8 @@ Please go to gabe-games.github.io for some awesome games and stuff...
     </nav>
 
     <section class="content">
-      <h2>Welcome to the Y2K Zone</h2>
+      <h2>Welcome to the BAM-studios website, art, animations, videos, photographs, and games of course will be shown here
+      ***THIS IS A WORK IN PROGRESS***</h2>
       <p>
        
       </p>

@@ -11,20 +11,6 @@ Please go to gabe-games.github.io for some awesome games and stuff...
   <title>BAM-studios481</title>
   <link rel="stylesheet" href="style.css">
 
-  <!-- Pixel + Y2K fonts (authentic, non-AI) -->
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
-</head>
-// Smooth scroll + placeholder creation for buttons/links.
-//
-// Usage:
-// - For anchor links: <a href="#about">About</a>
-// - Or use data-target on buttons: <button data-target="#about">About</button>
-//
-// Behavior:
-// - If the target element exists, smooth-scrolls to it.
-// - If the target doesn't exist, creates a placeholder <section id="..."> and scrolls there.
-// - External links (href starting with http, mailto, etc.) are ignored.
-
 
 
 <body>

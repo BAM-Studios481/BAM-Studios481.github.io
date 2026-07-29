@@ -37,26 +37,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
 
       <button class="y2k-btn">Enter</button>
     </section>
-    <header class="header">
-      <h1 class="site-title"> BAM‑studios </h1>
-      
 
-    <nav class="nav">
-      <a href="#">Home</a>
-      <a href="#">Projects</a>
-      <a href="#">Gallery</a>
-      <a href="#">Contact</a>
-    </nav>
-
-    <section class="content">
-      <h2>Welcome to the BAM-studios website, art, animations, videos, photographs, and games of course will be shown here
-      ***THIS IS A WORK IN PROGRESS***</h2>
-      <p>
-       
-      </p>
-
-      <button class="y2k-btn">Enter</button>
-    </section>   
    <img width="4500" height=auto alt="alt_future" src="https://github.com/user-attachments/assets/0dbc8784-46b4-48c3-b698-db014ecd0463" />
 
 

@@ -57,7 +57,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
 
       <button class="y2k-btn">Enter</button>
     </section>
-    ![map](C:\Users\justi\Downloads\alt_future.png)
+    ![map]("C:\Users\justi\Downloads\alt_future.png")
 
 
     <footer class="footer">

@@ -39,7 +39,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
 
       <button class="y2k-btn">Enter</button>
     </section>
-
+thx for visiting ig
     <footer class="footer">
       <p>© 2001–2026 BAM‑studios481</p>
     </footer>

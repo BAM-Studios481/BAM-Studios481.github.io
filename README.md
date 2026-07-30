@@ -71,7 +71,7 @@ below is an image of my alt future world set in 2102, the colors represent diffe
  <h2>Other</h2>
 <div id="Other"></div>
 This is the "other" section, this is where you will find links, random stuff, and other things in the future! Don't forget to go to gabe-games.github.io for some more awesome projects and games!
-[![Watch the video](https://www.youtube.com/watch?v=0a5BJxrarL0)](https://www.youtube.com/watch?v=0a5BJxrarL0)
+
 
     <footer class="footer">
       <p>© 2001–2026 BAM‑studios481</p>

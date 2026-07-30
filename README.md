@@ -1,6 +1,6 @@
 # BAM-Studios
 This is the new and not-really improved website for BAM studios, we're supposed to be making games and stuff but who cares.
-Please go to gabe-games.github.io for some awesome games and stuff...
+Please go to gabe-games.github.io for some awesome games!
 
 
 
@@ -8,7 +8,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>BAM-studios481</title>
+  # <title>BAM-studios481</title>
   <link rel="stylesheet" href="style.css">
 
 
@@ -28,7 +28,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
           </nav>
 
     <section class="content">
-      <h2>Welcome to the BAM-Studios! website! art, animations, videos, photographs, and games of course will be shown here
+      <h2>Welcome to the BAM-Studios website! Art, animations, videos, photographs, and games of course will be shown here
       </h2>
       <p>
        

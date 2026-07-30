@@ -53,7 +53,10 @@ This is a placeholder
 
 <div id="Gallery"></div>
 This is the gallery! here you will find a collection of cool things that i made and that others made (credit will be provided)
+below is an image of my alt future world set in 2102, the colors represent different alliances with the strongest nation being Russia followed by the Democratic Republic of Africa, and then the united states, who won WW3 and lost WW4
    <img width="4500" height=auto alt="alt_future" src="https://github.com/user-attachments/assets/0dbc8784-46b4-48c3-b698-db014ecd0463" />
+   Below is an image of my riced-out(super customized) desktop!
+   <img width="1919" height="auto" alt="Image" src="https://github.com/user-attachments/assets/bf028f7e-f5cf-4145-809f-1b890396ff74" />
 
 
 

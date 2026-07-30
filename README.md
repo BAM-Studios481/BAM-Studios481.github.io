@@ -22,9 +22,9 @@ Please go to gabe-games.github.io for some awesome games and stuff...
       
 
     <nav class="nav">
-      <a href="#Projects"><button>Jump to Section</button></a>
-      <a href="#">Projects</a>
-      <a href="#">Gallery</a>
+      <a href="#Projects"><button>Projects</button></a>
+      <a href="#Gallery"><button>Gallery</button></a>
+      <a href="#Other"><button>Other</button></a>
           </nav>
 
     <section class="content">
@@ -37,10 +37,22 @@ Please go to gabe-games.github.io for some awesome games and stuff...
       <button class="y2k-btn">Enter</button>
     </section>
 <div id="Projects"></div>
+
+
+
+
+
+
+
+<div id="Gallery"></div>
    <img width="4500" height=auto alt="alt_future" src="https://github.com/user-attachments/assets/0dbc8784-46b4-48c3-b698-db014ecd0463" />
 
 
 
+
+
+
+<div id="Other"></div>
     <footer class="footer">
       <p>© 2001–2026 BAM‑studios481</p>
     </footer>

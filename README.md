@@ -52,6 +52,7 @@ This is a placeholder
 
 
 <div id="Gallery"></div>
+This is the gallery! here you will find a collection of cool things that i made and that others made (credit will be provided)
    <img width="4500" height=auto alt="alt_future" src="https://github.com/user-attachments/assets/0dbc8784-46b4-48c3-b698-db014ecd0463" />
 
 

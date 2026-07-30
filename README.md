@@ -37,7 +37,14 @@ Please go to gabe-games.github.io for some awesome games and stuff...
       <button class="y2k-btn">Enter</button>
     </section>
 <div id="Projects"></div>
-
+This is a placeholder
+/
+/
+/
+/
+/
+/
+/
 
 
 
@@ -53,6 +60,15 @@ Please go to gabe-games.github.io for some awesome games and stuff...
 
 
 <div id="Other"></div>
+this is a placeholder
+/
+/
+/
+/
+/
+/
+/
+
     <footer class="footer">
       <p>© 2001–2026 BAM‑studios481</p>
     </footer>

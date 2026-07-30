@@ -29,7 +29,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
 
     <section class="content">
       <h2>Welcome to the BAM-Studios! website! art, animations, videos, photographs, and games of course will be shown here
-      ***THIS IS A WORK IN PROGRESS***</h2>
+      </h2>
       <p>
        
       </p>
@@ -42,7 +42,7 @@ Planned:
 
 Jumper: an extremely innovative game where your 2d stickman jumps over stuff and climbs to beat the level!
 
-below is a detailed render of the game
+Below is a detailed render of the game
 <img width="1067" height="auto" alt="Image" src="https://github.com/user-attachments/assets/919c1314-00c9-41b6-b5d7-15f86bd29e30" />
 
 
@@ -52,8 +52,8 @@ below is a detailed render of the game
 
 
 <div id="Gallery"></div>
-This is the gallery! here you will find a collection of cool things that i made and that others made (credit will be provided)
-below is an image of my alt future world set in 2102, the colors represent different alliances with the strongest nation being Russia followed by the Democratic Republic of Africa, and then the united states, who won WW3 and lost WW4
+This is the gallery! Here you will find a collection of cool things that i made and that others made (credit will be provided)
+below is an image of my alt future world set in 2102, the colors represent different alliances with the strongest nation being Russia followed by the Democratic Republic of Africa, and then the united states, who won WW3 and lost WW4.
    <img width="4500" height=auto alt="alt_future" src="https://github.com/user-attachments/assets/0dbc8784-46b4-48c3-b698-db014ecd0463" />
    Below is an image of my riced-out(super customized) desktop!
    <img width="1919" height="auto" alt="Image" src="https://github.com/user-attachments/assets/bf028f7e-f5cf-4145-809f-1b890396ff74" />
@@ -69,7 +69,7 @@ below is an image of my alt future world set in 2102, the colors represent diffe
 
 
 <div id="Other"></div>
-this is a placeholder
+This is the "other" section, this is where you will find links, random stuff, and other things in the future! Don't forget to go to gabe-games.github.io for some more awesome projects and games!
 
 
     <footer class="footer">

@@ -8,7 +8,7 @@ Please go to gabe-games.github.io for some awesome games!
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  # <title>BAM-studios481</title>
+   <title>BAM-studios481</title>
   <link rel="stylesheet" href="style.css">
 
 
@@ -36,6 +36,7 @@ Please go to gabe-games.github.io for some awesome games!
 
       <button class="y2k-btn">Enter</button>
     </section>
+    ## Projects
 <div id="Projects"></div>
 Here is where i will put all of my gaming/animating projects!<br>
 Planned:
@@ -50,7 +51,7 @@ Below is a detailed render of the game
 
 
 
-
+## Gallery
 <div id="Gallery"></div>
 This is the gallery! Here you will find a collection of cool things that i made and that others made (credit will be provided)
 below is an image of my alt future world set in 2102, the colors represent different alliances with the strongest nation being Russia followed by the Democratic Republic of Africa, and then the united states, who won WW3 and lost WW4.
@@ -67,7 +68,7 @@ below is an image of my alt future world set in 2102, the colors represent diffe
 
 
 
-
+## Other
 <div id="Other"></div>
 This is the "other" section, this is where you will find links, random stuff, and other things in the future! Don't forget to go to gabe-games.github.io for some more awesome projects and games!
 

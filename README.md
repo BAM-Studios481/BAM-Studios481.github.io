@@ -74,7 +74,8 @@ below is an image of my alt future world set in 2102, the colors represent diffe
 <div id="Other"></div>
 This is the "other" section, this is where you will find links, random stuff, and other things in the future! Don't forget to go to gabe-games.github.io for some more awesome projects and games!
 
-[![Gabe-Games](<img src="https://shields.io" alt="Y2K Ready Badge">)](gabe-games.github.io)
+Shout out to everyone ig :D<br>
+Anyways, dogs are better than cats!
 
     <footer class="footer">
       <p>© 2001–2026 BAM‑studios481</p>

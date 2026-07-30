@@ -8,7 +8,7 @@ Please go to gabe-games.github.io for some awesome games!
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-   <title>BAM-studios481</title>
+   
   <link rel="stylesheet" href="style.css">
 
 

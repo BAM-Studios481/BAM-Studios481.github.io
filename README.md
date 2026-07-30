@@ -76,7 +76,7 @@ This is the "other" section, this is where you will find links, random stuff, an
 
 Shout out to everyone ig :D<br>
 Anyways, dogs are better than cats!<br>
-below is an image of a dog displaying it's raw intelligence
+beside me is an image of a dog displaying it's raw intelligence.
 <img width="382" height="auto" alt="Image" src="https://github.com/user-attachments/assets/0fc9c71e-3820-410b-b903-be2fee7d5188" />
 
     <footer class="footer">

@@ -22,11 +22,10 @@ Please go to gabe-games.github.io for some awesome games and stuff...
       
 
     <nav class="nav">
-      <a href="#target-section"><button>Jump to Section</button></a>
+      <a href="#Projects"><button>Jump to Section</button></a>
       <a href="#">Projects</a>
       <a href="#">Gallery</a>
-      <a href="#">Contact</a>
-    </nav>
+          </nav>
 
     <section class="content">
       <h2>Welcome to the BAM-studios website, art, animations, videos, photographs, and games of course will be shown here
@@ -37,7 +36,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
 
       <button class="y2k-btn">Enter</button>
     </section>
-<div id="target-section"></div>
+<div id="Projects"></div>
    <img width="4500" height=auto alt="alt_future" src="https://github.com/user-attachments/assets/0dbc8784-46b4-48c3-b698-db014ecd0463" />
 
 

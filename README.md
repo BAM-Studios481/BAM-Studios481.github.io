@@ -18,7 +18,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
   <div class="page-wrapper">
 
     <header class="header">
-      <h1 class="site-title"> BAM‑studios </h1>
+      <h1 class="site-title"> BAM‑Studios! </h1>
       
 
     <nav class="nav">
@@ -28,7 +28,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
           </nav>
 
     <section class="content">
-      <h2>Welcome to the BAM-studios website, art, animations, videos, photographs, and games of course will be shown here
+      <h2>Welcome to the BAM-Studios! website! art, animations, videos, photographs, and games of course will be shown here
       ***THIS IS A WORK IN PROGRESS***</h2>
       <p>
        
@@ -38,13 +38,7 @@ Please go to gabe-games.github.io for some awesome games and stuff...
     </section>
 <div id="Projects"></div>
 This is a placeholder
-/
-/
-/
-/
-/
-/
-/
+
 
 
 
@@ -65,13 +59,7 @@ below is an image of my alt future world set in 2102, the colors represent diffe
 
 <div id="Other"></div>
 this is a placeholder
-/
-/
-/
-/
-/
-/
-/
+
 
     <footer class="footer">
       <p>© 2001–2026 BAM‑studios481</p>

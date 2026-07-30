@@ -75,7 +75,9 @@ below is an image of my alt future world set in 2102, the colors represent diffe
 This is the "other" section, this is where you will find links, random stuff, and other things in the future! Don't forget to go to gabe-games.github.io for some more awesome projects and games!
 
 Shout out to everyone ig :D<br>
-Anyways, dogs are better than cats!
+Anyways, dogs are better than cats!<br>
+below is an image of a dog displaying it's raw intelligence
+<img width="191" height="auto" alt="Image" src="https://github.com/user-attachments/assets/0fc9c71e-3820-410b-b903-be2fee7d5188" />
 
     <footer class="footer">
       <p>© 2001–2026 BAM‑studios481</p>

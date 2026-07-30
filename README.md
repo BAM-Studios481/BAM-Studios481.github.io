@@ -36,7 +36,7 @@ Please go to gabe-games.github.io for some awesome games!
 
       <button class="y2k-btn">Enter</button>
     </section>
-    ## Projects
+    <font size="4">Projects</OCR-A Extended>
 <div id="Projects"></div>
 Here is where i will put all of my gaming/animating projects!<br>
 Planned:
@@ -51,7 +51,7 @@ Below is a detailed render of the game
 
 
 
-## Gallery
+<font size="4">Gallery</OCR-A Extended>
 <div id="Gallery"></div>
 This is the gallery! Here you will find a collection of cool things that i made and that others made (credit will be provided)
 below is an image of my alt future world set in 2102, the colors represent different alliances with the strongest nation being Russia followed by the Democratic Republic of Africa, and then the united states, who won WW3 and lost WW4.
@@ -68,7 +68,7 @@ below is an image of my alt future world set in 2102, the colors represent diffe
 
 
 
-## Other
+<font size="4">Other</OCR-A Extended>
 <div id="Other"></div>
 This is the "other" section, this is where you will find links, random stuff, and other things in the future! Don't forget to go to gabe-games.github.io for some more awesome projects and games!
 

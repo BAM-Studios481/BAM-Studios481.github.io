@@ -36,7 +36,7 @@ Please go to gabe-games.github.io for some awesome games!
 
       <button class="y2k-btn">Enter</button>
     </section>
-    <font size="4">Projects</OCR-A Extended>
+  <h2>Projects</h2>
 <div id="Projects"></div>
 Here is where i will put all of my gaming/animating projects!<br>
 Planned:

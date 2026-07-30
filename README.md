@@ -51,7 +51,7 @@ Below is a detailed render of the game
 
 
 
-<font size="4">Gallery</OCR-A Extended>
+ <h2>Gallery/h2>
 <div id="Gallery"></div>
 This is the gallery! Here you will find a collection of cool things that i made and that others made (credit will be provided)
 below is an image of my alt future world set in 2102, the colors represent different alliances with the strongest nation being Russia followed by the Democratic Republic of Africa, and then the united states, who won WW3 and lost WW4.
@@ -68,7 +68,7 @@ below is an image of my alt future world set in 2102, the colors represent diffe
 
 
 
-<font size="4">Other</OCR-A Extended>
+ <h2>Other</h2>
 <div id="Other"></div>
 This is the "other" section, this is where you will find links, random stuff, and other things in the future! Don't forget to go to gabe-games.github.io for some more awesome projects and games!
 

@@ -41,9 +41,10 @@ Please go to gabe-games.github.io for some awesome games!
 Here is where i will put all of my gaming/animating projects!<br>
 Planned:
 
-Jumper: an extremely innovative game where your 2d stickman jumps over stuff and climbs to beat the level!
+Minima: an extremely innovative game where your 2d cube jumps over stuff and climbs to beat the level!<br>
+whats up guys! sorry that there hasn't been many updates to the website or news but production on the game(now known as minima, you seriously thought i was going to keep "jumper") is going well and is expected to go beta in around ~4 days
 
-Below is a detailed render of the game
+Below is a detailed render of the game(now inaccurate)
 <img width="1067" height="auto" alt="Image" src="https://github.com/user-attachments/assets/919c1314-00c9-41b6-b5d7-15f86bd29e30" />
 
 

@@ -42,10 +42,10 @@ Here is where i will put all of my gaming/animating projects!<br>
 Out now!:<br>
 
 Minima: an extremely innovative game where your 2d cube jumps over stuff and climbs to beat the level!<br>
-whats up guys! sorry that there hasn't been many updates to the website or news but production on the game(now known as minima, you seriously thought i was going to keep "jumper") is going well and is expected to go beta in around ~4 days<br>
+whats up guys! sorry that there hasn't been many updates to the website or news but production on the game(now known as minima, you seriously thought i was going to keep "jumper") is going well and is currently in its final stages with development nearing completion and progress slowing down.
 <img width="1102" height="auto" alt="Image" src="https://github.com/user-attachments/assets/d3dd8966-e750-4e4e-83b7-08ca54d4f53e" />
 https://theanteater702.itch.io/minima<br>
-thats my website :)
+thats my Itch Profile :)
 
 
 
